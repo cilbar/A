@@ -1,0 +1,10 @@
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+}
+.icon:hover {
+  color: #FA8072;
+}
